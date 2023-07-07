@@ -1,3 +1,5 @@
 # Linked-List
-#Author : Tarek Rahman 
-#United International University
+
+Author : Tarek Rahman 
+
+United International University
